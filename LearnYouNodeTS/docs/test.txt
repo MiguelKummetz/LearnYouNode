@@ -1,0 +1,10 @@
+texto generico
+    para comprobar saltos
+        de linea
+        asd
+        asdasd
+        asdasdasd
+
+        asdasdasd
+
+        asda
